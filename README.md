@@ -2,7 +2,7 @@
 
 **We build Web3 — from client roadmaps to passion projects.**
 
-Welcome to the official GitHub presence of **Vandelay Technologies**, a full-service Web3 solutions provider and internal innovation lab. We're a collective of developers, strategists, and technologists building the future of blockchain—both for clients and ourselves.
+Welcome to the official GitHub for **Vandelay Technologies**, a full-service Web3 solutions provider and internal innovation lab. We're a collective of developers, strategists, and technologists building the future of blockchain—both for clients and ourselves.
 
 ## What We Do
 
