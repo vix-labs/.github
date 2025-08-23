@@ -1,12 +1,12 @@
-# Vandelay Technologies
+# VIX Labs
 
 **We build Web3 — from client roadmaps to passion projects.**
 
-Welcome to the official GitHub presence of **Vandelay Technologies**, a full-service Web3 solutions provider and internal innovation lab. We're a collective of developers, strategists, and technologists building the future of blockchain—both for clients and ourselves.
+Welcome to the official GitHub presence of **VIX Labs**, a full-service Web3 solutions provider and internal innovation lab. We're a collective of developers, strategists, and technologists building the future of blockchain—both for clients and ourselves.
 
 ## What We Do
 
-At Vandelay Technologies, we empower blockchain projects to scale smarter, launch faster, and grow sustainably. We specialize in:
+At VIX Labs, we empower blockchain projects to scale smarter, launch faster, and grow sustainably. We specialize in:
 
 - **Smart Contract & dApp Development**  
   Secure, scalable applications tailored to your ecosystem.
@@ -24,14 +24,14 @@ At Vandelay Technologies, we empower blockchain projects to scale smarter, launc
 
 We're more than just a service provider—we’re builders at heart.
 
-Vandelay Technologies actively creates and maintains internal projects ranging from open-source tools for the Web3 community to fully incubated apps and protocols. Whether it’s a smart contract utility, a meme-powered dApp, or a fun weekend experiment—we love building for the sake of curiosity, creativity, and contribution.
+VIX Labs actively creates and maintains internal projects ranging from open-source tools for the Web3 community to fully incubated apps and protocols. Whether it’s a smart contract utility, a meme-powered dApp, or a fun weekend experiment—we love building for the sake of curiosity, creativity, and contribution.
 
 ---
 
 ## 🔗 Connect With Us
 
-- 📧 Email: [info@vandelaytechnologies.io](mailto:info@vandelaytechnologies.io)  
-- 🌐 Website: [https://www.vandelaytechnologies.io](https://www.vandelaytechnologies.io/)  
-- 💼 LinkedIn: [Vandelay Technologies](https://www.linkedin.com/company/vandelay-technologies)
+- 📧 Email: [info@vix-labs.com](mailto:info@vix-labs.com)  
+- 🌐 Website: [https://www.vix-labs.com](https://www.vix-labs.com/)  
+- 💼 LinkedIn: [VIX Labs](https://www.linkedin.com/company/vix-labs)
 
 ---
