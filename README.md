@@ -1,6 +1,6 @@
-# VIX-LABS // Previously Vandelay Tech
+# VIX-LABS // 
 
-**We build Web3 — from client roadmaps to passion projects.**
+**We build Web3 - from client roadmaps to passion projects.**
 
 Welcome to the official GitHub for **VIX LABS**, a full-service Web3 solutions provider and internal innovation lab. We're a collective of developers, strategists, and technologists building the future of blockchain—both for partners, and ourselves.
 
