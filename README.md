@@ -1,12 +1,12 @@
-# Vandelay Technologies
+# VIX-LABS // Previously Vandelay Tech
 
 **We build Web3 — from client roadmaps to passion projects.**
 
-Welcome to the official GitHub for **Vandelay Technologies**, a full-service Web3 solutions provider and internal innovation lab. We're a collective of developers, strategists, and technologists building the future of blockchain—both for clients and ourselves.
+Welcome to the official GitHub for **VIX LABS**, a full-service Web3 solutions provider and internal innovation lab. We're a collective of developers, strategists, and technologists building the future of blockchain—both for partners, and ourselves.
 
 ## What We Do
 
-At Vandelay Technologies, we empower blockchain projects to scale smarter, launch faster, and grow sustainably. We specialize in:
+At VIX Labs, we empower blockchain projects to scale smarter, launch faster, and grow sustainably. We specialize in:
 
 - **Smart Contract & dApp Development**  
   Secure, scalable applications tailored to your ecosystem.
@@ -24,7 +24,7 @@ At Vandelay Technologies, we empower blockchain projects to scale smarter, launc
 
 We're more than just a service provider—we’re builders at heart.
 
-Vandelay Technologies actively creates and maintains internal projects ranging from open-source tools for the Web3 community to fully incubated apps and protocols. Whether it’s a smart contract utility, a meme-powered dApp, or a fun weekend experiment—we love building for the sake of curiosity, creativity, and contribution.
+VIX Labs actively creates and maintains internal projects ranging from open-source tools for the Web3 community to fully incubated apps and protocols. Whether it’s a smart contract utility, a dApp starter-kit, or a fun weekend experiment - we love building for the sake of curiosity, creativity, and contribution.
 
 ---
 
