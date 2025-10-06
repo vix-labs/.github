@@ -1,8 +1,8 @@
 # VIX Labs
 
-**We build Web3 - from client roadmaps to passion projects.**
+**We build Web3**
 
-Welcome to the official GitHub presence of **VIX Labs**, a full-service Web3 solutions provider and internal innovation lab. We're a collective of developers, strategists, and technologists building the future of blockchain—both for clients and ourselves.
+Welcome to the official GitHub presence of **VIX Labs**, a full-service Web3 solutions provider and internal innovation lab. We're a collective of developers, strategists, and technologists building the future of blockchain, both for clients and ourselves.
 
 ## What We Do
 
@@ -22,7 +22,7 @@ At VIX Labs, we empower blockchain projects to scale smarter, launch faster, and
 
 ## What We Build Internally
 
-We're more than just a service provide - —we’re builders at heart.
+We're more than just a service provide - we’re builders at heart.
 
 VIX Labs actively creates and maintains internal projects ranging from open-source tools for the Web3 community to fully incubated apps and protocols. Whether it’s a smart contract utility, a meme-powered dApp, or a fun weekend experiment—we love building for the sake of curiosity, creativity, and contribution.
 
